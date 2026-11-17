@@ -1,0 +1,21 @@
+2026-11-17 13:54:17,304 - ERROR - CRASHED: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-11-17 13:54:44,073 - INFO - Starting bot...
+2026-11-17 13:54:44,789 - INFO - Querying AI for: marketing agencies in New York
+2026-11-17 13:54:45,085 - INFO - HTTP Request: POST http://127.0.0.1:31415/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-11-17 13:54:45,085 - ERROR - CRASHED: Error code: 404 - Model 'freellmapi/qwen3.8-27b' is not in the catalog. Use 'auto' (or omit the 'model' field) to auto-route, or call /v1/models for the available list.
+2026-11-17 13:57:25,900 - INFO - Starting bot...
+2026-11-17 13:57:25,980 - INFO - Querying AI for: marketing agencies in New York
+2026-11-17 13:58:41,028 - INFO - Starting bot...
+2026-11-17 13:58:41,105 - INFO - Querying AI for: marketing agencies in New York
+2026-11-17 13:58:41,454 - INFO - HTTP Request: POST http://127.0.0.1:31415/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-17 13:58:41,457 - INFO - Success: ```json
+{
+  "company_name": "The Brand Innovators",
+  "likely_needs_services": "false",
+  "reasoning": "The target company is itself a marketing agency (listed under 'marketing agencies in New York'). Since the entity providing the services is the same type of business as the agency, it is highly unlikely that this agency will need to outsource its own core marketing services from another agency, as they are the service provider in this context."
+}
+```
+2026-11-17 20:18:00,357 - INFO - Starting bot...
+2026-11-17 20:18:00,816 - ERROR - CRASHED: 'search_target'
+2026-11-17 20:19:46,871 - Reading website: https://www.thesouledstore.com/men
+2026-11-17 20:19:48,958 - HTTP Request: POST http://127.0.0.1:31415/v1/chat/completions "HTTP/1.1 200 OK"

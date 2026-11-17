@@ -1,0 +1,5 @@
+2026-11-17 21:16:25,841 - HTTP Request: POST http://127.0.0.1:31415/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-17 21:16:29,070 - HTTP Request: POST http://127.0.0.1:31415/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-11-17 21:16:29,567 - HTTP Request: POST http://127.0.0.1:31415/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-11-17 21:16:30,235 - HTTP Request: POST http://127.0.0.1:31415/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-11-17 21:16:30,236 - Retrying request in 90.000000 seconds (retry 1 of 2)

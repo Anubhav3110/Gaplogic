@@ -1,0 +1,10 @@
+{
+    "search_query":  "Top premium smart casual menswear brands in India competitors to Indian Terrain",
+    "api_base":  "http://127.0.0.1:31415/v1",
+    "model":  "qwen/qwen3.8-27b",
+    "target_audience":  "he primary target audience for Indian Terrain is cosmopolitan, upwardly-mobile Indian men aged 25 to 45. The brand positions itself in the mid-premium smart-casual menswear segment, catering to working professionals who want versatile clothing that transitions easily from the office to social or leisure settings",
+    "num_competitors_to_search":  5,
+    "client_url":  "https://indianterrain.com/",
+    "tavily_api_key":  "tvly-1W15gX-vANBnxq6lx6tnbAp9m3VYMNnab6p2hXBjsxx2hLt2Z",
+    "api_key":  "freellmapi-9f4275dd191de36c1841e609bc6aa0cd4376ea0874ba32c1"
+}
